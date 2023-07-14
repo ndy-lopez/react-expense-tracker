@@ -1,4 +1,4 @@
-# React Spending Tracker
+# React Expense Tracker
 
 This project is a simple spending tracker built using React and the **useState** hook. It provides a table to display the list of expenses and a form to add new expenses.
 
